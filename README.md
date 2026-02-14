@@ -1,7 +1,6 @@
 # glowbeauty-product-landing-page
 Elegant and fully responsive product landing page built with HTML5 and CSS3.Modern beauty brand website template.# GlowBeauty – Product Landing Page
-
-GlowBeauty is a modern and elegant product landing page built using HTML5 and CSS3.  
+  
 It is designed for beauty brands, skincare businesses, and product promotions.
 
 ## ✨ Features
